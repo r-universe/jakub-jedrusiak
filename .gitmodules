@@ -5,6 +5,3 @@
 [submodule "mtscr"]
 	path = mtscr
 	url = https://github.com/jakub-jedrusiak/mtscr
-[submodule "openscoring"]
-	path = openscoring
-	url = https://github.com/jakub-jedrusiak/openscoring
